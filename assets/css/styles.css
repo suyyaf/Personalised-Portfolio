@@ -537,6 +537,19 @@ img {
   width: 50%;
 }
 
+.skills_dynamic {
+  width: 100%;
+}
+.skills_blackbox {
+  width: 100%;
+}
+.skills_manual {
+  width: 100%;
+}
+.skills_automation {
+  width: 40%;
+}
+
 .skills_close .skills_list {
   height: 0;
   overflow: hidden;
